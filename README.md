@@ -1,6 +1,7 @@
-### Hello there 👋
+## Hello there 👋 I'm Sabah
 
 
+## 🎓 I'm Btech Computer Science student at Cochin University
 <!--
 **mhdsabah/mhdsabah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src='https://github-readme-stats.vercel.app/api?username=mhdsabah&&show_icons=true&title_color=fgffff&icon_color=fgffff&text_color=FFFFF&bg_color=0000'>
+-
+- 👯 I’m looking to collaborate with anyone on any project.
+- 💬 Ask me about anything
+
 
 
 <div>
