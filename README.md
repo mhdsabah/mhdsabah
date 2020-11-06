@@ -1,7 +1,7 @@
 ## Hello there 👋 I'm Sabah
 
 
-## 🎓 I'm Btech Computer Science student at Cochin University
+## 🎓 I'm a Btech Computer Science student at Cochin University
 <!--
 **mhdsabah/mhdsabah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--
+
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything
 
 
 
+
+##🏆 My Github Stats:
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mhdsabah&count_private=true&show_icons=true&theme=tokyonight">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mhdsabah&count_private=true&show_icons=true&theme=tokyonight" />
