@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src='https://github-readme-stats.vercel.app/api?username=mhdsabah&&show_icons=true&title_color=fgffff&icon_color=fgffff&text_color=FFFFF&bg_color=0000'>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdsabah&theme=tokyonight)
 
 
