@@ -1,6 +1,6 @@
 ##  Hello there 👋 I'm Sabah
 
-** 🎓 I'm a Btech Computer Science student at Cochin University**
+<strong>🎓 I'm a Btech Computer Science student at Cochin University</strong>
 <!--
 **mhdsabah/mhdsabah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
