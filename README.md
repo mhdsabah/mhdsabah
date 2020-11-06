@@ -1,4 +1,4 @@
-##  Hello there 👋 I'm Sabah
+## Hello there 👋 I'm Sabah
 
 <strong>🎓 I'm a Btech Computer Science student at Cochin University</strong>
 <!--
