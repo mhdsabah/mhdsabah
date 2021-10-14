@@ -51,12 +51,9 @@ Here are some ideas to get you started:
 
 
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mhdsabah&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mhdsabah&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mhdsabah&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mhdsabah&hide=php&theme=tokyonight" />
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhdsabah&show_icons=true&locale=en" alt="mhdsabah" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhdsabah&" alt="mhdsabah" /></p>
 </div>
 
 
