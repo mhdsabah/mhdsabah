@@ -48,9 +48,8 @@ Here are some ideas to get you started:
 </p>
 <br />
 </div>
+
 ## 🏆 My Github Stats:
-
-
 <div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhdsabah&show_icons=true&locale=en" alt="mhdsabah" /></p>
 
