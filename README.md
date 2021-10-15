@@ -1,4 +1,4 @@
-## Hello there 👋 I'm Sabah
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello there, I'm Sabah
 
 <strong>🎓 I'm a Btech Computer Science student at Cochin University</strong>
 <!--
