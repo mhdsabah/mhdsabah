@@ -55,7 +55,9 @@ Here are some ideas to get you started:
 <th><img align="center" src="https://github-readme-stats.vercel.app/api?username=mhdsabah&show_icons=true&locale=en" alt="mhdsabah" /></th>
 
 <th><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhdsabah&" alt="mhdsabah" /></th>
-  </tr> </table>
+  </tr>
+  <tr><th><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdsabahr&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td></tr>
+  </table>
 </div>
 
 
