@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ## 🏆 My Github Stats:
 <div>
 <table><tr>
-<th>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhdsabah&show_icons=true&locale=en" alt="mhdsabah" /></th>
+<th><img align="center" src="https://github-readme-stats.vercel.app/api?username=mhdsabah&show_icons=true&locale=en" alt="mhdsabah" /></th>
 
 <th><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhdsabah&" alt="mhdsabah" /></p></th>
   </tr> </table>
