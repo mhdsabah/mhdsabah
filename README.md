@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <div>
 <table><tr>
 <th><img align="center" src="https://github-readme-stats.vercel.app/api?username=mhdsabah&show_icons=true&locale=en" alt="mhdsabah" /></th>
-<th>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdsabaha&layout=compact)](https://github.com/mhdsabah/github-readme-stats)</th>
+<th>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdsabaha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</th>
 
   </tr>
 
