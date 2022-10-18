@@ -59,6 +59,6 @@ Here are some ideas to get you started:
 
   </table>
 </div>
-[![@sabah's Holopin board](https://holopin.me/sabah)](https://holopin.io/@sabah)
+[[@sabah's Holopin board](https://holopin.me/sabah)](https://holopin.io/@sabah)
 
 
